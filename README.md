@@ -24,8 +24,9 @@ The purpose of this project is to streamline the processing of FDP event logs, a
 
 ⸻
 
+🔒 **Private Repository**  
+The repository is available at: [FDP Event Converter](https://github.com/FireExpert-Tools/FDP-Event-Converter)
+
+Access is restricted and requires prior authorization.
 💡 Notes • Ideal for system integrators, security technicians, and auditors • Provides professional and readable reports without manual intervention • Saves time in event analysis and documentation
 
-
-
-link to file: https://github.com/FireExpert-Tools/FDP-Event-Converter
